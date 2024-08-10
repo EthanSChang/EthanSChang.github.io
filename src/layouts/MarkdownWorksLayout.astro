@@ -1,0 +1,13 @@
+---
+import BaseLayout from './Layout.astro';
+const { frontmatter } = Astro.props;
+---
+<BaseLayout pageTitle={frontmatter.title}>
+    <div class="markdown_container">
+        <h1 class="title">{frontmatter.title}</h1>
+        <div class="markdown_text">
+            <slot />
+        </div>
+    </div>
+</BaseLayout>
+

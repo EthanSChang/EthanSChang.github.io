@@ -1,0 +1,23 @@
+---
+interface Props {
+    url: string;
+    image: string;
+    title: string;
+}
+import '/src/styles/global.css';
+
+const { url, image, title} = Astro.props;
+---
+<div class="card">
+    
+    <a class="card_link" href={url}>
+        <img class="card_img" src={image}>
+        <div class="card_text">
+            
+            <p>{title}</p>
+            
+        </div>
+    </a>
+    
+</div>
+
