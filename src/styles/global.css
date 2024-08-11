@@ -27,7 +27,7 @@ h1 {
 }
 
 h2{
-    font-weight: 350;
+    font-weight: 275;
     font-size: 2em;
 }
 
@@ -45,7 +45,11 @@ p{
 
 a{
     text-decoration: none;
-    color: black;
+    color: var(--accent);
+}
+
+li{
+    margin: .5em;
 }
 
 .main {
@@ -149,11 +153,13 @@ a{
     /* color: var(--accent); */
     margin: 0;
     /* height:100%; */
+    color: black;
 }
 
 .navbar_link{
     font-size: 1.25em;
     margin: 0.5em;
+    color: black;
 }
 /* #endregion */
 
@@ -252,8 +258,9 @@ a{
 }
 
 .markdown_image{
-    max-width: 25vw;
+    max-width: 35vw;
     max-height: 65vh;
     object-fit: contain;
     margin: 0.5em;
 }
+
