@@ -190,6 +190,18 @@ li{
 }
 /* #endregion */
 
+/* #region resume */
+#resume_img{
+    max-width: 65vw;
+}
+
+@media screen and (max-width: 800px){
+    #resume_img{
+        max-width: 90vw;
+    }
+    
+}
+/* #endregion */
 /* #region card */
 
 
@@ -304,3 +316,16 @@ li{
     margin: 0.5em;
 }
 
+@media screen and (max-width: 800px){
+    .title{
+        font-size: 3em;
+    }
+    .markdown_text{
+        width: 95vw;
+    }
+    .markdown_image{
+        max-width: 45vw;
+        max-height: 75vh;
+   
+    }
+}
