@@ -35,6 +35,11 @@ h3{
     font-weight: 400;
 }
 
+h4{
+    font-weight: 400;
+    font-size: 1.1em;
+}
+
 p{
     margin-left:0.25em;
     margin-right: 0.25em;
@@ -310,13 +315,13 @@ li{
     display: flex;
     flex-direction: row;
     justify-content: center;
-    max-width: 100%;
+    max-width: 70vw;
     flex-wrap: wrap;
 }
 
 .markdown_image{
-    max-width: 35vw;
-    max-height: 65vh;
+    max-width: 48%;
+    max-height: 75vh;
     object-fit: contain;
     margin: 0.5em;
 }
@@ -329,8 +334,8 @@ li{
         width: 95vw;
     }
     .markdown_image{
-        max-width: 45vw;
-        max-height: 75vh;
+        max-width: 48%;
+        max-height: 85vh;
    
     }
 }
