@@ -327,6 +327,9 @@ li{
 }
 
 @media screen and (max-width: 800px){
+    .markdown_img_container{
+        max-width: 95vw;
+    }
     .title{
         font-size: 3em;
     }
@@ -334,7 +337,7 @@ li{
         width: 95vw;
     }
     .markdown_image{
-        max-width: 48%;
+        max-width: 100%;
         max-height: 85vh;
    
     }
