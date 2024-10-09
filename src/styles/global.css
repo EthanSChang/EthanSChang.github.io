@@ -200,7 +200,7 @@ li{
 
 /* #region resume */
 #resume_img{
-    max-width: 65vw;
+    max-width: 55vw;
 }
 
 @media screen and (max-width: 800px){
