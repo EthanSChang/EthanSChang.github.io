@@ -320,7 +320,8 @@ li{
 }
 
 .markdown_image{
-    max-width: 65%;
+    /* flex-grow: 1; */
+    max-width: 48%;
     max-height: 75vh;
     object-fit: contain;
     margin: 0.5em;
