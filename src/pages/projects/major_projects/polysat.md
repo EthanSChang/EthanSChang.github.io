@@ -5,7 +5,7 @@ title: 'Polysat'
 
 In Fall 2023, I joined Polysat, Cal Poly's cubesat program. I'm currently working on SAL-E, our 3u cubesat mission. Its primary goal is to be a rapid development mission to improve our team's processes and knowledge. It's carrying 3 payloads: a camera, a custom radiation sensor developed by other Cal Poly students, and a radio developed by students and OWL Integrations. 
 
-I'm currently the structures and mechanisms lead for the project. I've been helping with DFM analysis, tolerancing and anodizing considerations, fixture design, CAM development, and the actual CNC machining. To date, I've machined the entire structure of the satellite. 
+I'm currently the structures and mechanisms lead for the project. I've been helping with DFM analysis, tolerancing and anodizing considerations, fixture design, CAM development, and the actual CNC machining. To date, I've machined the entire structure of the satellite. Over the 2024 winter break, all the parts were type 3 hard anodized. I put all my machined components together and I'm glad that we officialy meet CubeSat spec! 
 
 <div class="markdown_img_container">
 <img class="markdown_image" src="/major_projects/polysat/cover_img.webp">
@@ -56,3 +56,15 @@ I'm currently the structures and mechanisms lead for the project. I've been help
 </div>
 
 <h3 style="text-align: center;">Machining battery bracket components</h3>
+
+<div class="markdown_img_container">
+<img class="markdown_image" src="/major_projects/polysat/anodized.webp">
+<img class="markdown_image" src="/major_projects/polysat/anodized_closeup.webp">
+</div>
+
+<h3 style="text-align: center;">Components back from anodizing. I'm really happy with how the parts look!</h3>
+
+<div class="markdown_img_container">
+<img class="markdown_image" src="/major_projects/polysat/assembled.webp">
+</div>
+<h3 style="text-align: center;">The assembled structure. Crazy to think that this will be in space in November 2025!</h3>
