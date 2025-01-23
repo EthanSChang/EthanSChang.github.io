@@ -62,4 +62,3 @@ Before we knew it, it was time for district championships. Over spring break a f
 <img class="markdown_image" src="/major_projects/2023_robotics/closeup3.webp">
 
 </div>
-<!-- ![The San Juan Mountains are beautiful!](/src/images/2023_robotics/cover_img.jpg) -->

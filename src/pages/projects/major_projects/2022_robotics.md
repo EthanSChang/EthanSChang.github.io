@@ -38,7 +38,7 @@ Next was mounting the pneumatic cylinders that would deploy the intake. Here I m
 
 The intake ended up working incredibly well. The polycarbonate plates were compliant enough to absorb impacts, lasting the whole season without needing replacements. The pneumatic cylinders ended up acting as gas springs, so when the intake was hit from the front the intake would just fold back into the robot. We didn't have to replace a single piston! You can see the intake's compliance in action in the video below (center-right blue robot).
 <div class="markdown_img_container">
-<video class="markdown_image" controls> <source src="/major_projects/2022_robotics/intake_video.mp4">
+<video class="markdown_image" controls preload="true"> <source src="/major_projects/2022_robotics/intake_video.mp4">
 </div>
 
 The second subsystem I designed was the climber, which was a fairly straightforward single stage chain driven elevator. I took the same design approach as the intake, starting with defining major geometry and working down to individual parts.
