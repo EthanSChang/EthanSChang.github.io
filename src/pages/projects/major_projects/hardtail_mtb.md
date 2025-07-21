@@ -93,6 +93,10 @@ The frame after powdercoating. Quite a bit darker than the advertised color onli
 The finished bike! 
 </h4>
 
+<div class="markdown_img_container">
+<img class="markdown_image" src="/major_projects/hardtail_mtb/full_bike2.webp">
+</div>
+
 Specs:
  - Fork: Marzocchi bomber 130mm 
  - Drivetrain: Deore 11 speed, 32 chainring, 11-51 cassette
