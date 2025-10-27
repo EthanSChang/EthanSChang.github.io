@@ -1,6 +1,6 @@
 ---
 layout: /src/layouts/MarkdownWorksLayout.astro
-title: 'CNC Certification'
+title: 'CNC Machining'
 ---
 
 My freshman year, I decided to get my CNC mill certification ("blue tag") such that I could have access to Cal Poly's Haas 3-axis mills. To do this, I had to make 3 parts with a mentor. 
